@@ -3,6 +3,7 @@
       margin:20px auto;
     }
     label{
+        display: block;
         width: 300px;
         margin-bottom: 5px;
     }
