@@ -4,7 +4,6 @@
     }
     label{
         display: block;
-        width: 300px;
         margin-bottom: 5px;
     }
     input{
@@ -12,9 +11,9 @@
         padding: 5px;
         margin: 10px;
     }
-    .button{
+    button{
         padding: 10px 20px;
-        background-color: green;
+        background-color: #4CAF50;
         color:white;
         border: none;
         cursor: pointer;
